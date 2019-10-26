@@ -1,5 +1,6 @@
 # fdp-sys
 
+[![Build Status](https://travis-ci.com/Wenzel/fdp-sys.svg?branch=master)](https://travis-ci.com/Wenzel/fdp-sys)
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
 > Rust unsafe bindings for FDP library
