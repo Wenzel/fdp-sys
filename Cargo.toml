@@ -7,7 +7,7 @@ links = "FDP"
 repository = "https://github.com/Wenzel/fdp-sys"
 readme = "README.md"
 keywords = ["Winbagility", "FDP", "VirtualBox", "VMI"]
-description = "Rust unsafe bindings for FDP (Fast Debugging Protocol)"
+description = "Rust unsafe bindings for FDP (Fast Debugging Protocol),  VirtualBox's unofficial introspection API"
 license = "GPL-3.0-only"
 
 [dependencies]
