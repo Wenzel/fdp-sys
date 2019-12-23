@@ -9,18 +9,26 @@
 
 - [Overview](#overview)
 - [Requirements](#requirements)
+- [References](#references)
 - [Maintainers](#maintainers)
 - [Contributing](#contributing)
 - [License](#license)
 
 ## Overview
 
-This crate will compile **unsafe** bindings for Winbagility's FDP `libFDP.so`.
+This crate will compile **unsafe** bindings for Icebox's FDP library: `libFDP.so`.
+
+`FDP` stands for _Fast Debugging Protocol_, a Virtual Machine Introspection
+extension for VirtualBox.
 
 ## Requirements
 
 - `cargo`
 - `rustc`
+
+## References
+
+- [icebox](https://github.com/thalium/icebox)
 
 ## Maintainers
 
