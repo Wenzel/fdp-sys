@@ -3,12 +3,15 @@ name = "fdp-sys"
 version = "0.1.0"
 authors = ["Mathieu Tarral <mathieu.tarral@protonmail.com>"]
 edition = "2018"
-links = "FDP"
-repository = "https://github.com/Wenzel/fdp-sys"
+description = "Rust FFI bindings for libFDP"
 readme = "README.md"
-keywords = ["Winbagility", "FDP", "VirtualBox", "VMI"]
-description = "Rust unsafe bindings for FDP (Fast Debugging Protocol),  VirtualBox's unofficial introspection API"
+homepage = "https://github.com/Wenzel/fdp-sys"
+repository = "https://github.com/Wenzel/fdp-sys"
 license = "GPL-3.0-only"
+keywords = ["Winbagility", "FDP", "VirtualBox", "VMI", "introspection"]
+categories = ["external-ffi-bindings"]
+links = "FDP"
+build = "build.rs"
 
 [dependencies]
 
