@@ -1,14 +1,13 @@
 [package]
 name = "fdp-sys"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Mathieu Tarral <mathieu.tarral@protonmail.com>"]
 edition = "2018"
 description = "Rust FFI bindings for libFDP"
 readme = "README.md"
-homepage = "https://github.com/Wenzel/fdp-sys"
 repository = "https://github.com/Wenzel/fdp-sys"
 license = "GPL-3.0-only"
-keywords = ["Winbagility", "FDP", "VirtualBox", "VMI", "introspection"]
+keywords = ["FDP", "VirtualBox", "VMI", "introspection"]
 categories = ["external-ffi-bindings"]
 links = "FDP"
 build = "build.rs"
